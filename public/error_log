@@ -1,0 +1,262 @@
+[18-Feb-2023 07:36:49 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:36:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:36:54 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:40:04 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:40:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:41:50 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:41:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:41:51 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:41:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:42:02 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:42:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:42:03 UTC] PHP Warning:  require_once(/Config/Constants.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 07:42:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Config/Constants.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php:71
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require()
+#1 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php on line 71
+[18-Feb-2023 08:12:21 UTC] PHP Fatal error:  Uncaught TypeError: CodeIgniter\HTTP\IncomingRequest::determineHost(): Return value must be of type string, null returned in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php:497
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php(465): CodeIgniter\HTTP\IncomingRequest->determineHost()
+#1 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php(232): CodeIgniter\HTTP\IncomingRequest->setPath()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php(178): CodeIgniter\HTTP\IncomingRequest->detectURI()
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(541): CodeIgniter\HTTP\IncomingRequest->__construct()
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(501): CodeIgniter\Config\Services::incomingrequest()
+#5 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::request()
+#6 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic()
+#7 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(497): CodeIgniter\Config\BaseService::getSharedInstance()
+#8 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::request()
+#9 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(265): CodeIgniter\Config\BaseService::__callStatic()
+#10 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::exceptions()
+#11 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic()
+#12 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(261): CodeIgniter\Config\BaseService::getSharedInstance()
+#13 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::exceptions()
+#14 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/CodeIgniter.php(186): CodeIgniter\Config\BaseService::__callStatic()
+#15 /home/lcsg6799/public_html/labs/csy/public/index.php(55): CodeIgniter\CodeIgniter->initialize()
+#16 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php on line 497
+[18-Feb-2023 08:12:24 UTC] PHP Fatal error:  Uncaught TypeError: CodeIgniter\HTTP\IncomingRequest::determineHost(): Return value must be of type string, null returned in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php:497
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php(465): CodeIgniter\HTTP\IncomingRequest->determineHost()
+#1 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php(232): CodeIgniter\HTTP\IncomingRequest->setPath()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php(178): CodeIgniter\HTTP\IncomingRequest->detectURI()
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(541): CodeIgniter\HTTP\IncomingRequest->__construct()
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(501): CodeIgniter\Config\Services::incomingrequest()
+#5 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::request()
+#6 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic()
+#7 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(497): CodeIgniter\Config\BaseService::getSharedInstance()
+#8 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::request()
+#9 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(265): CodeIgniter\Config\BaseService::__callStatic()
+#10 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::exceptions()
+#11 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic()
+#12 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(261): CodeIgniter\Config\BaseService::getSharedInstance()
+#13 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::exceptions()
+#14 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/CodeIgniter.php(186): CodeIgniter\Config\BaseService::__callStatic()
+#15 /home/lcsg6799/public_html/labs/csy/public/index.php(55): CodeIgniter\CodeIgniter->initialize()
+#16 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/HTTP/IncomingRequest.php on line 497
+[18-Feb-2023 08:16:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Config\BASE" in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Factories.php:129
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Common.php(206): CodeIgniter\Config\Factories::__callStatic()
+#1 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(148): config()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::codeigniter()
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic()
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(145): CodeIgniter\Config\BaseService::getSharedInstance()
+#5 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::codeigniter()
+#6 /home/lcsg6799/public_html/labs/csy/public/index.php(54): CodeIgniter\Config\BaseService::__callStatic()
+#7 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Factories.php on line 129
+[18-Feb-2023 08:16:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Config\BASE" in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Factories.php:129
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Common.php(206): CodeIgniter\Config\Factories::__callStatic()
+#1 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(148): config()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::codeigniter()
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic()
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Services.php(145): CodeIgniter\Config\BaseService::getSharedInstance()
+#5 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/BaseService.php(252): CodeIgniter\Config\Services::codeigniter()
+#6 /home/lcsg6799/public_html/labs/csy/public/index.php(54): CodeIgniter\Config\BaseService::__callStatic()
+#7 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Config/Factories.php on line 129
+[03-Mar-2023 12:39:03 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:39:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:39:05 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:39:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:40:31 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:40:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:41:01 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:41:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:41:22 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:41:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:42:53 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:42:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:42:55 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:42:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:48:51 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:48:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:56:01 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 12:56:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:02:47 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:02:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:03:57 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:03:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:03:59 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:03:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:06:58 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:06:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6124b4c8570aa39...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:29:37 UTC] PHP Warning:  require(/home/lcsg6799/public_html/labs/csy/vendor/composer/../symfony/deprecation-contracts/function.php): Failed to open stream: No such file or directory in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[03-Mar-2023 13:29:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/lcsg6799/public_html/labs/csy/vendor/composer/../symfony/deprecation-contracts/function.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php(45): {closure}('6e3fae29631ef28...', '/home/lcsg6799/...')
+#1 /home/lcsg6799/public_html/labs/csy/vendor/autoload.php(25): ComposerAutoloaderInit0bc538fbc98bb45f4b8cd955dff3d31e::getLoader()
+#2 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(136): include('/home/lcsg6799/...')
+#3 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(125): CodeIgniter\Autoloader\Autoloader->loadComposerInfo(Object(Config\Modules))
+#4 /home/lcsg6799/public_html/labs/csy/vendor/codeigniter4/framework/system/bootstrap.php(105): CodeIgniter\Autoloader\Autoloader->initialize(Object(Config\Autoload), Object(Config\Modules))
+#5 /home/lcsg6799/public_html/labs/csy/public/index.php(38): require('/home/lcsg6799/...')
+#6 {main}
+  thrown in /home/lcsg6799/public_html/labs/csy/vendor/composer/autoload_real.php on line 41
+[15-Mar-2023 08:52:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/lcsg6799/public_html/labs/csy/vendor/mpdf/mpdf/src/Fonts/FontCache.php on line 45
+[15-Mar-2023 08:52:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 143360 bytes) in /home/lcsg6799/public_html/labs/csy/vendor/mpdf/mpdf/src/Cache.php on line 72
+[15-Mar-2023 08:52:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/lcsg6799/public_html/labs/csy/vendor/mpdf/mpdf/src/Fonts/FontCache.php on line 45
+[21-Mar-2023 08:53:19 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\Web::program() in /home/lcsg6799/public_html/labs/majlis/app/Controllers/Web.php on line 137
